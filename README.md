@@ -12,7 +12,7 @@ Corporation in process and installation engineering.
 
 ## What I'm working on
 
-### [RVV-LAB](https://github.com/Jack-Daly-Eng025/rvv-lab)
+### [RVV-LAB](https://github.com/jdaly-phy/rvv-lab)
 A hands-on laboratory for the **RISC-V Vector extension (RVV 1.0)**.
 
 - Writing hand-vectorized routines in RVV assembly and C/C++ intrinsics
