@@ -5,9 +5,10 @@ background in experimental physics. I work at the intersection of hardware
 and software: optimizing performance-critical applications, benchmarking,
 and writing robust systems code in C++, Rust, and Fortran.
 
-At Openchip, my work focused on  porting and optimizing HPC workloads and benchmarks for
-RISC-V. Previously I spent over two years at Intel Corporation in process
-and installation engineering.
+At Openchip, my work has focused on porting and optimising HPC workloads
+and benchmarks for RISC-V. Previously I spent over two years at Intel
+Corporation in process and installation engineering.
+
 
 ## What I'm working on
 
@@ -15,7 +16,7 @@ and installation engineering.
 
 ## Background
 
-- BSc (Hons) Experimental Physics, Maynooth University
+- BSc (Hons) Experimental Physics, Maynooth University (NFQ Level 8)
 - Graduate Certificate in Electronic & Computer Engineering (NFQ Level 9),
   Dublin City University
 - Certifications: Introduction to RISC-V (LFD110), , LFD114: Porting Software to RISC-V, Rust, Kubernetes
